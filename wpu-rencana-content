@@ -4,6 +4,7 @@ RENCAN CONTEN WPU
   * ES6
   * Framework Javascript
     ^vue
+    ^react
 - Struktur data dasar
 - PHP frameworks
   ^laravel
